@@ -1,2 +1,4 @@
 file_to_be_exluded_from_tracking.txt
 log/
+*.orig
+
